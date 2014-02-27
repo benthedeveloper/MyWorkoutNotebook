@@ -243,3 +243,5 @@ local.properties
 proguard/
 gen/com/benthedeveloper/myworkoutnotebook/BuildConfig.java
 project.properties
+gen/com/benthedeveloper/myworkoutnotebook/BuildConfig.java
+project.properties
