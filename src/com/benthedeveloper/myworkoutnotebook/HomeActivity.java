@@ -42,9 +42,9 @@ public class HomeActivity extends FragmentActivity implements
 				new ArrayAdapter<String>(getActionBarThemedContextCompat(),
 						android.R.layout.simple_list_item_1,
 						android.R.id.text1, new String[] {
-								getString(R.string.title_section1),
-								getString(R.string.title_section2),
-								getString(R.string.title_section3), }), this);
+								getString(R.string.title_workouts),
+								getString(R.string.title_profile),
+								getString(R.string.title_stats), }), this);
 	}
 
 	/**
